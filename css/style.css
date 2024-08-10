@@ -22,8 +22,8 @@ header{
 .header-content img {
     position: relative;
     left: 0;
-    max-width: 14%; /* Ajuste conforme necessário */
-    /*max-width: 50px; /* Ajuste conforme necessário */
+    /* max-width: 14%;  Ajuste conforme necessário */
+    max-width: 50px; 
 }
 
 .header-content h1 {
